@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../2009_Analysis/.idea/2009_Analysis.iml" filepath="$PROJECT_DIR$/../2009_Analysis/.idea/2009_Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2023_Analysis/.idea/2023_Analysis.iml" filepath="$PROJECT_DIR$/../2023_Analysis/.idea/2023_Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2024_Analysis/.idea/2024_Analysis.iml" filepath="$PROJECT_DIR$/../2024_Analysis/.idea/2024_Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BADASS_Analysis/.idea/BADASS_Analysis.iml" filepath="$PROJECT_DIR$/../BADASS_Analysis/.idea/BADASS_Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2022_Analysis/.idea/ZTF18abuamgoProject.iml" filepath="$PROJECT_DIR$/../2022_Analysis/.idea/ZTF18abuamgoProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ZTF18abuamgo_Analysis.iml" filepath="$PROJECT_DIR$/.idea/ZTF18abuamgo_Analysis.iml" />
+    </modules>
+  </component>
+</project>

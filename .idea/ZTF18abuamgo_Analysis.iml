@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="2009_Analysis" />
+    <orderEntry type="module" module-name="ZTF18abuamgoProject" />
+    <orderEntry type="module" module-name="2024_Analysis" />
+    <orderEntry type="module" module-name="2023_Analysis" />
+    <orderEntry type="module" module-name="BADASS_Analysis" />
+  </component>
+</module>
